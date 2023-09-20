@@ -17,10 +17,6 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 
 * Canvas [web site](https://canvas.princeton.edu/)
 * Zoom links and TA contact information can be found on Canvas.
-* Other useful docs:
-    * [Assignment Logistics](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Assignment%20Logistics.pdf)
-    * [Working with Google Colab](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Working%20with%20Google%20Colab.pdf)
-    * [Working with LaTeX](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Working%20with%20LaTeX.pdf)
 
 ## Course staff
 
@@ -31,7 +27,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 
 * Lectures: M/W 3:00-4:20pm (EQuad B205)
 * Office hours:
-    * Niraj K. Jha: M/W 2:00-3:00pm 
+    * Niraj K. Jha: M/W 2-3pm (EQuad B205)
     * Sayeri Lala: Tu: 4-5pm, Th: 11-12pm (EQuad B321)
     * Margarita Belova: M: 11-12pm, W:1-2pm (EQuad B321)
 
